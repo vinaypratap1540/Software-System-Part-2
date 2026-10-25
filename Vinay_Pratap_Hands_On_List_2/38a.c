@@ -34,7 +34,7 @@ vinaypratap@Ubuntu:~$ cd 38a
 vinaypratap@Ubuntu:~/38a$ code .
 vinaypratap@Ubuntu:~/38a$ gcc 38a.c -o fifo
 vinaypratap@Ubuntu:~/38a$ ./fifo
-38a received:
+38a received: hello from 38b
 
 ============================================================================
 */
