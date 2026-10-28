@@ -38,8 +38,7 @@ vinaypratap@Ubuntu:~$ mkdir 51b
 vinaypratap@Ubuntu:~$ cd 51b
 vinaypratap@Ubuntu:~/51b$ code .
 vinaypratap@Ubuntu:~/51b$ gcc 51b.c -o socket
-vinaypratap@Ubuntu:~/51b$ ./socket
-
+vinaypratap@Ubuntu:~/51b$ ./socket 127.0.0.1
 Server says: hello from server
 ============================================================================
 */
