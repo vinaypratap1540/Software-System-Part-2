@@ -37,7 +37,7 @@ vinaypratap@Ubuntu:~/49c$ code .
 vinaypratap@Ubuntu:~/49c$ gcc 49c.c -o semaphore
 vinaypratap@Ubuntu:~/49c$ ./semaphore
 pid 14484 waiting for a resource
-pid 14484 got a resource, free left: -1
+pid 14484 got a resource, free left: 2
 pid 14484 released the resource
 
 ============================================================================
